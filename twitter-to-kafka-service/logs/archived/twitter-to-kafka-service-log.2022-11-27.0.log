@@ -1,0 +1,14 @@
+2022-11-27 13:09:07 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.17 on SEN001426 with PID 2138147 (/home/viniciussilva/event-driven-microservices/microservices-demo/twitter-to-kafka-service/target/classes started by viniciussilva in /home/viniciussilva/event-driven-microservices/microservices-demo)
+2022-11-27 13:09:07 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-27 13:09:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.326 seconds (JVM running for 2.391)
+2022-11-27 13:09:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-11-27 13:09:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-11-27 13:09:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-11-27 13:09:08 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting to mock filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-11-27 13:09:08 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolorem dolor velit sit velit quisquam porro adipisci Elasticsearch est adipisci dolorem amet qui est qui
+2022-11-27 13:09:09 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text est adipisci Neque dolorem Java quisquam amet qui
+2022-11-27 13:09:10 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ipsum porro qui Elasticsearch ipsum ipsum
+2022-11-27 13:09:11 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text adipisci amet amet Kafka adipisci dolorem
+2022-11-27 13:09:12 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolor est porro quia Elasticsearch quia ipsum
+2022-11-27 13:09:13 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text velit consectetur porro ipsum quisquam dolorem dolorem Elasticsearch amet porro est dolor qui Neque
+2022-11-27 13:09:14 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text qui dolor ipsum amet quia Microservices quia dolor qui
